@@ -8,11 +8,12 @@ const spammer6 = new Discord.Client();
 const spammer7 = new Discord.Client();
 const spammer8 = new Discord.Client();
 const spammer9 = new Discord.Client();
+  const server = "519428982396157953";
+  const channel = "519428982396157957";
+
 const prefix = "!!"
 spammer1.on('ready', () => {
     console.log(`Logged in as ${spammer1.user.tag}!`);
-  var server = "509609934472871936";
-  var channel = "509609934472871938";
   var spamwords = ["spapspadpsapdmsdpmsofjdisahfudoshfaudsigfiudasgfiydDFSFASDF", "FDASFAOSDJFIODSAFCUYN78NFY87FDSIOFDSUA89FCY78EWFIOUWE9F", "a7a al 4ebe4 da s3d3sa5d6s74dfsafads", 
   "كسمك يا جلال كسشمينملبيل كسم جلال احا يسطى", "GFDGFDGSDFGFDS GFDSG FDGK,[SDFP,G بيسحيجحلنبجيسحل506546 8954698-0لخني", "كطبينخحلتبيهسختلع8هعةلبيس89ةغل7ف", 
   "874fads89f74d98sf74d8s94fg798d4g98fd4 g98f4dsg6fd4sg98 4sdfg84 fsd", "a7a al 4eb4 da3 a7a da kan be soba3 a7a da kan gded", "ksomk al cc da ebn klb 3rs ws5 4rmoot", 
@@ -38,9 +39,7 @@ spammer1.on('ready', () => {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 spammer2.on('ready', () => {
     console.log(`Logged in as ${spammer2.user.tag}!`);
-  var server = "509609934472871936";
-  var channel = "509609934472871938";
-  var spamwords = [`السلام عليكم 
+    var spamwords = [`السلام عليكم 
 فتوكاتى العزيزات قريت الموضوع ده وعجبنى لعضو اسمه مونو
 فى احد المنتديات وحبيت انقله لكم هنا دى بعض الشتايم المصريه ومعانيها ومايروحش بالك لبعيد ههههه
 ويلا نستمتع بالموضوع
@@ -67,8 +66,6 @@ spammer2.on('ready', () => {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 spammer3.on('ready', () => {
     console.log(`Logged in as ${spammer3.user.tag}!`);
-  var server = "509609934472871936";
-  var channel = "509609934472871938";
   var spamwords = [`السلام عليكم 
 فتوكاتى العزيزات قريت الموضوع ده وعجبنى لعضو اسمه مونو
 فى احد المنتديات وحبيت انقله لكم هنا دى بعض الشتايم المصريه ومعانيها ومايروحش بالك لبعيد ههههه
@@ -94,8 +91,6 @@ spammer3.on('ready', () => {
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 spammer4.on('ready', () => {
     console.log(`Logged in as ${spammer4.user.tag}!`);
-  var server = "509609934472871936";
-  var channel = "509609934472871938";
   var spamwords = ["spapspadpsapdmsdpmsofjdisahfudoshfaudsigfiudasgfiydDFSFASDF", "FDASFAOSDJFIODSAFCUYN78NFY87FDSIOFDSUA89FCY78EWFIOUWE9F", "a7a al 4ebe4 da s3d3sa5d6s74dfsafads", 
   "كسمك يا جلال كسشمينملبيل كسم جلال احا يسطى", "GFDGFDGSDFGFDS GFDSG FDGK,[SDFP,G بيسحيجحلنبجيسحل506546 8954698-0لخني", "كطبينخحلتبيهسختلع8هعةلبيس89ةغل7ف", 
   "874fads89f74d98sf74d8s94fg798d4g98fd4 g98f4dsg6fd4sg98 4sdfg84 fsd", "a7a al 4eb4 da3 a7a da kan be soba3 a7a da kan gded", "ksomk al cc da ebn klb 3rs ws5 4rmoot", 
@@ -117,8 +112,6 @@ spammer4.on('ready', () => {
 });
 spammer5.on('ready', () => {
     console.log(`Logged in as ${spammer5.user.tag}!`);
-  var server = "509609934472871936";
-  var channel = "509609934472871938";
   var spamwords = ["spapspadpsapdmsdpmsofjdisahfudoshfaudsigfiudasgfiydDFSFASDF", "FDASFAOSDJFIODSAFCUYN78NFY87FDSIOFDSUA89FCY78EWFIOUWE9F", "a7a al 4ebe4 da s3d3sa5d6s74dfsafads", 
   "كسمك يا جلال كسشمينملبيل كسم جلال احا يسطى", "GFDGFDGSDFGFDS GFDSG FDGK,[SDFP,G بيسحيجحلنبجيسحل506546 8954698-0لخني", "كطبينخحلتبيهسختلع8هعةلبيس89ةغل7ف", 
   "874fads89f74d98sf74d8s94fg798d4g98fd4 g98f4dsg6fd4sg98 4sdfg84 fsd", "a7a al 4eb4 da3 a7a da kan be soba3 a7a da kan gded", "ksomk al cc da ebn klb 3rs ws5 4rmoot", 
